@@ -2,7 +2,9 @@
 
 Bu proje, Python'un **Turtle** modülü kullanılarak geliştirilen klasik **Snake (Yılan) Oyunu**dur. Oyunda yılan, ok tuşlarıyla kontrol edilerek yönlendirilir.
 ## 📸 Oyun Ekran Görüntüsü
-![image](https://github.com/user-attachments/assets/dab6a745-2d2c-4ea9-bde2-099b9c2d6fa0)
+
+![image](https://github.com/user-attachments/assets/2915c2c9-5f70-4d74-8795-80d954283dd0)
+
 
 
 
